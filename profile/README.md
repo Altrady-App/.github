@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/⬇️_Download_Altrady_for_macOS-blue?style=for-the-badge&logo=apple" alt="Download Altrady App for macOS">  
 </a>  
 
-<a href="altrady-app.github.io/.github">  
+<a href="https://altrady-app.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_Download_Altrady_for_Windows-orange?style=for-the-badge&logo=windows" alt="Download Altrady App for Windows">  
 </a>  
 </div>  
